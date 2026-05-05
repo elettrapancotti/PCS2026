@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wno-sign-compare -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/tempi.dir/link.d CMakeFiles/tempi.dir/timecounter.cpp.o CMakeFiles/tempi.dir/tempi.cpp.o -o tempi

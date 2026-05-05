@@ -1,0 +1,6 @@
+/home/pcsdocker/Data/PCS2026/Esercitazione5/build_es05/CMakeFiles/tempi.dir
+/home/pcsdocker/Data/PCS2026/Esercitazione5/build_es05/CMakeFiles/test_mergesort.dir
+/home/pcsdocker/Data/PCS2026/Esercitazione5/build_es05/CMakeFiles/test_quicksort.dir
+/home/pcsdocker/Data/PCS2026/Esercitazione5/build_es05/CMakeFiles/test.dir
+/home/pcsdocker/Data/PCS2026/Esercitazione5/build_es05/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/PCS2026/Esercitazione5/build_es05/CMakeFiles/rebuild_cache.dir

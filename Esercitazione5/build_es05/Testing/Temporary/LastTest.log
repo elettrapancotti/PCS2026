@@ -1,0 +1,35 @@
+Start testing: May 04 19:29 UTC
+----------------------------------------------------------
+1/2 Testing: mergesort
+1/2 Test: mergesort
+Command: "/home/pcsdocker/Data/PCS2026/Esercitazione5/build_es05/test_mergesort"
+Directory: /home/pcsdocker/Data/PCS2026/Esercitazione5/build_es05
+"mergesort" start time: May 04 19:29 UTC
+Output:
+----------------------------------------------------------
+Tutti i test di Mergesort passati
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"mergesort" end time: May 04 19:29 UTC
+"mergesort" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: quicksort
+2/2 Test: quicksort
+Command: "/home/pcsdocker/Data/PCS2026/Esercitazione5/build_es05/test_quicksort"
+Directory: /home/pcsdocker/Data/PCS2026/Esercitazione5/build_es05
+"quicksort" start time: May 04 19:29 UTC
+Output:
+----------------------------------------------------------
+Tutti i test di Quicksort passati
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"quicksort" end time: May 04 19:29 UTC
+"quicksort" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 04 19:29 UTC

@@ -1,0 +1,12 @@
+Osservazioni esercitazione 5
+
+
+Confronto tra algoritmi quadratici e logaritmici (per dimensioni inferiori a 100)
+Per dimensioni molto piccole (circa fino alla dimensione 16-20) gli algoritmi quadratici (in particolare Insertionsort) risultano più veloci degli algoritmi logaritmici. 
+All'aumentare della taglia gli algoritmi logaritmici diventano più rapidi degli algoritmi quadratici, in particolare Quicksort (o meglio ancora la versione ibrida Quicksort2) è più veloce di Mergesort.
+
+Si è scelta una soglia di 18 per la dimensione dei sottoarray sotto alla quale la versione ibrida Quicksort2 utilizza Insertionsort.
+
+Utilizzando la compilazione Release si può apprezzare una diminuzione dei tempi di 1/2 ordini di grandezza rispetto alla compilazione in modo Debug.
+
+Sort rimane molto efficiente ma nella compilazione Release è superato da Insertionsort per dimensioni molto piccole.
