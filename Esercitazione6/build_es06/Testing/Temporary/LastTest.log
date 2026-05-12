@@ -1,0 +1,33 @@
+Start testing: May 12 11:48 UTC
+----------------------------------------------------------
+1/1 Testing: test_graph
+1/1 Test: test_graph
+Command: "/home/pcsdocker/Data/PCS2026/Esercitazione6/build_es06/test_graph"
+Directory: /home/pcsdocker/Data/PCS2026/Esercitazione6/build_es06
+"test_graph" start time: May 12 11:48 UTC
+Output:
+----------------------------------------------------------
+Test 1 superato: il costruttore di edge garantisce u < v
+Test 2 superato: operator == corretto
+Test 3 superato: operator < corretto
+Test 4 superato: operator << corretto
+Test 5 superato: add_edge non crasha
+Test 6 superato: all_edge corretto
+Test 7 superato: all_nodes correto
+Test 8 superato: add_edge ignora i duplicati
+Test 9 superato: neighbours corretto
+Test 10 superato: edge_number corretto
+Test 11 superato: edge_at corretto
+Test 12 superato: il costruttore di default crea un grafo vuoto
+Test 13 superato: il costruttore di copia ha fatto una copia indipendente
+Test 14 superato: operator - corretto
+Tutti i test sono stati superati
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"test_graph" end time: May 12 11:48 UTC
+"test_graph" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 12 11:48 UTC
