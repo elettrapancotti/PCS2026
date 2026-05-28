@@ -1,0 +1,28 @@
+Start testing: May 28 22:41 UTC
+----------------------------------------------------------
+1/1 Testing: test_gc
+1/1 Test: test_gc
+Command: "/home/pcsdocker/Data/PCS2026/Esercitazione10/build_es10/test_gc"
+Directory: /home/pcsdocker/Data/PCS2026/Esercitazione10/build_es10
+"test_gc" start time: May 28 22:41 UTC
+Output:
+----------------------------------------------------------
+it/it_max
+3/10000
+res/res_tol
+2.4593e-15/1.0000e-12
+err_rel
+1.6266e-15
+soluzione
+1.0000e+00
+1.0000e+00
+1.0000e+00
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_gc" end time: May 28 22:41 UTC
+"test_gc" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 28 22:41 UTC
